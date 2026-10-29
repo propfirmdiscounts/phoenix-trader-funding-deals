@@ -72,4 +72,4 @@ This repository tracks all historical deals for **Phoenix Trader Funding** publi
 
 ---
 
-Last synced: 2026-10-29T03:50:24Z (auto, hourly)
+Last synced: 2026-10-29T06:33:03Z (auto, hourly)
