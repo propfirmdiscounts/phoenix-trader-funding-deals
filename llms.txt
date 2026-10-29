@@ -1,0 +1,8 @@
+# Phoenix Trader Funding Discount Codes
+
+This dataset tracks historical deal observations for Phoenix Trader Funding from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (20%)
+Works any time on all Phoenix Trader Funding challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
