@@ -1,31 +1,48 @@
-# Phoenix Trader Funding - Discount Codes & Deal History
+# Phoenix Trader Funding Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-15, the verified Phoenix Trader Funding discount code is **PFD** — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
+> We provide traders with capital under the guise of a test to demonstrate their trading skills.
+> Our goal is to be the best prop firm worldwide, so feel free to leave a positive or negative review whether or not you're satisfied with our service
+>
+> — Phoenix Trader Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/phoenixtraderfunding.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-15
+- Trustpilot: 4.5/5 (261 reviews)
+- Activate: https://propfirmdiscount.com/go/phoenixtraderfunding
+- Firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **20% off** on Phoenix Trader Funding challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Phoenix Trader Funding evaluation accounts.
+## Current Phoenix Trader Funding deal: 40% Off Daily Seed Challenge Pricing
+
+- Published: 2026-10-15
+- Offer ends: 2026-10-31
+- Offer: 40% off
+- Scope: Daily Seed
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/
+
+## Phoenix Trader Funding discount code FAQ
+
+**What is the Phoenix Trader Funding discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 20% off Phoenix Trader Funding challenges and accounts.
+
+**Does the Phoenix Trader Funding discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Phoenix Trader Funding deal?**
+
+**40% Off Daily Seed Challenge Pricing** — published 2026-10-15. Offer ends: 2026-10-31. The offer is 40% off.
 
 ---
 
-## Latest Deal
-
-### Phoenix Trader Funding - 40% Off Daily Seed Challenge Pricing
-
-**Published:** 2026-10-15  
-**Offer ends:** 2026-10-31  
-**Discount:** 40% off  
-**Scope:** Daily Seed  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **22**
 
@@ -63,19 +80,20 @@ Total deals tracked: **22**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Phoenix Trader Funding** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Phoenix Trader Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
