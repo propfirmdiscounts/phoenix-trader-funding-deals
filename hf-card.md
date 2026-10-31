@@ -41,6 +41,7 @@ As of 2026-10-15, the verified Phoenix Trader Funding discount code is **PFD** �
 - Published: 2026-10-15
 - Offer ends: 2026-10-31
 - Offer: 40% off
+- Event: Halloween
 - Scope: Daily Seed
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/
@@ -69,8 +70,8 @@ Total deals tracked: **22**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-15 | 40% Off Daily Seed Challenge Pricing | 40% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) |
-| 2026-10-15 | 30% Off Classic Starter Challenge Pricing | 30% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/) |
+| 2026-10-15 | 40% Off Daily Seed Challenge Pricing | 40% off | 2026-10-31 | Halloween | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) |
+| 2026-10-15 | 30% Off Classic Starter Challenge Pricing | 30% off | 2026-10-31 | Halloween | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/) |
 | 2026-10-15 | Fixed $64.80 Entry On The $25K Classic Agile Account | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/) |
 | 2026-10-07 | 40% Off Daily Evaluation Accounts ($59.40 to $197.40) | 40% off | 2026-10-12 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-accounts-2/) |
 | 2026-10-01 | 30% Off Every Classic Size Account Purchase | 30% off | 2026-10-15 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-sizes/) |
@@ -89,7 +90,7 @@ Total deals tracked: **22**
 | 2026-04-21 | 20% Off Classic Evaluation Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-20-off-classic-accounts/) |
 | 2026-03-02 | 26% Off Lifetime Thor Accounts | 26% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-26-off-thor-accounts/) |
 | 2026-02-02 | 22% Off All Challenges and 30% Off Thor Trade Copier | 22% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/22-percent-off-challenges-30-percent-off-thor/) |
-| 2026-01-01 | 50% Off New Year Thor Subscriptions | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-50-off-new-year-thor/) |
+| 2026-01-01 | 50% Off New Year Thor Subscriptions | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-50-off-new-year-thor/) |
 
 ### 2025 (1 deals)
 
