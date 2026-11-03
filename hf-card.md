@@ -17,9 +17,14 @@ tags:
   - phoenix-trader-funding
 ---
 
-# Phoenix Trader Funding Discount Code
+# Phoenix Trader Funding - Discount Codes & Deal History
 
 As of 2026-10-15, the verified Phoenix Trader Funding discount code is PFD — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
+
+> We provide traders with capital under the guise of a test to demonstrate their trading skills.
+> Our goal is to be the best prop firm worldwide, so feel free to leave a positive or negative review whether or not you're satisfied with our service
+>
+> — Phoenix Trader Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/phoenixtraderfunding.com)
 
 - Code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
