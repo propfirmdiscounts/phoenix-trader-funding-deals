@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: phoenixtraderfunding
   FIRM_SLUG: phoenix-trader-funding
   DEALSTORE_ID: 412
   FIRM_NAME: Phoenix Trader Funding
