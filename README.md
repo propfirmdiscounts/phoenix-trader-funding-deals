@@ -11,11 +11,12 @@ As of 2026-11, the verified Phoenix Trader Funding discount code is PFD — 40% 
 - Discount: 40% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
-- Trustpilot: 4.5/5 (263 reviews)
-- Activate: https://propfirmdiscount.com/go/phoenixtraderfunding
-- Firm page: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [4.5/5 (263 reviews)](https://www.trustpilot.com/review/phoenixtraderfunding.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/phoenix-trader-funding-deals](https://github.com/propfirmdiscounts/phoenix-trader-funding-deals)
+- Activate: [https://propfirmdiscount.com/go/phoenixtraderfunding](https://propfirmdiscount.com/go/phoenixtraderfunding)
+- Firm page: [https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Phoenix Trader Funding deal: 25K Daily Starter at $119.40 - 40% Off on TFeed
 
@@ -24,7 +25,7 @@ As of 2026-11, the verified Phoenix Trader Funding discount code is PFD — 40% 
 - Offer: 40% off
 - Scope: Daily Starter, 25K Account, Tfeed
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/
+- Deal page: [https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/)
 
 ## Phoenix Trader Funding discount code FAQ
 
@@ -86,9 +87,9 @@ Total deals tracked: **24**
 
 This repository mirrors every deal **Phoenix Trader Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/phoenix-trader-funding-deals.json`
 
