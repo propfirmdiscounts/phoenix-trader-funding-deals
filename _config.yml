@@ -1,0 +1,6 @@
+title: "Phoenix Trader Funding - Discount Codes & Deal History"
+description: "As of November 2026, the verified Phoenix Trader Funding discount code is PFD — 40% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes."
+url: "https://propfirmdiscounts.github.io"
+baseurl: "/phoenix-trader-funding-deals"
+plugins:
+  - jekyll-seo-tag
