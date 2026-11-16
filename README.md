@@ -1,6 +1,6 @@
 # Phoenix Trader Funding - Discount Codes & Deal History
 
-As of November 2026, the verified Phoenix Trader Funding discount code is PFD — 40% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Phoenix Trader Funding discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "25K Daily Starter at $119.40 - 40% Off on TFeed".
 
 > We provide traders with capital under the guise of a test to demonstrate their trading skills.
 > Our goal is to be the best prop firm worldwide, so feel free to leave a positive or negative review whether or not you're satisfied with our service
@@ -12,11 +12,11 @@ As of November 2026, the verified Phoenix Trader Funding discount code is PFD �
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
 - Trustpilot: [4.5/5 (263 reviews)](https://www.trustpilot.com/review/phoenixtraderfunding.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/phoenix-trader-funding-deals](https://github.com/propfirmdiscounts/phoenix-trader-funding-deals)
-- Activate: [https://propfirmdiscount.com/go/phoenixtraderfunding](https://propfirmdiscount.com/go/phoenixtraderfunding)
-- Firm page: [https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Phoenix Trader Funding Deals Repository](https://github.com/propfirmdiscounts/phoenix-trader-funding-deals)
+- Activate: [Activate Phoenix Trader Funding Discount Code](https://propfirmdiscount.com/go/phoenixtraderfunding)
+- Firm page: [Phoenix Trader Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Phoenix Trader Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Phoenix Trader Funding deal: 25K Daily Starter at $119.40 - 40% Off on TFeed
 
@@ -25,7 +25,7 @@ As of November 2026, the verified Phoenix Trader Funding discount code is PFD �
 - Offer: 40% off
 - Scope: Daily Starter, 25K Account, Tfeed
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/)
+- Deal page: [Phoenix Trader Funding Deal Page](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/)
 
 ## Phoenix Trader Funding discount code FAQ
 
@@ -87,9 +87,9 @@ Total deals tracked: **24**
 
 This repository mirrors every deal **Phoenix Trader Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Phoenix Trader Funding Profile](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/phoenix-trader-funding-deals.json`
 
@@ -132,4 +132,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
