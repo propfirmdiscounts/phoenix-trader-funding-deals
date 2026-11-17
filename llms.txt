@@ -1,4 +1,4 @@
-# Phoenix Trader Funding Discount Codes
+# Phoenix Trader Funding Discount Code & Deals History
 
 This dataset tracks historical deal observations for Phoenix Trader Funding from PropFirmDiscount.com.
 

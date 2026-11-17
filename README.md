@@ -1,4 +1,4 @@
-# Phoenix Trader Funding Discount Code & Deal History
+# Phoenix Trader Funding Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Phoenix Trader Funding discount code is PFD â€” 40% OFF, which can be applied on the checkout page anytime. The newest is "25K Daily Starter at $119.40 - 40% Off on TFeed".
 
@@ -12,7 +12,7 @@ As of November 2026, the verified Phoenix Trader Funding discount code is PFD â€
 - Valid: Standing code â€” no published expiry date
 - Last deal published: 2026-11-04
 - Trustpilot: [4.4/5 (264 reviews)](https://www.trustpilot.com/review/phoenixtraderfunding.com)
-- GitHub repository: [Phoenix Trader Funding Deals Repository](https://github.com/propfirmdiscounts/phoenix-trader-funding-deals)
+- GitHub repository: [Phoenix Trader Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/phoenix-trader-funding-deals)
 - Activate: [Activate Phoenix Trader Funding Discount Code](https://propfirmdiscount.com/go/phoenixtraderfunding)
 - Firm page: [Phoenix Trader Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -27,7 +27,7 @@ As of November 2026, the verified Phoenix Trader Funding discount code is PFD â€
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Phoenix Trader Funding Deal Page](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/)
 
-## Phoenix Trader Funding Discount Code & Deals FAQ
+## Phoenix Trader Funding Discount Code & Deals History FAQ
 
 **What is the Phoenix Trader Funding discount code?**
 
@@ -43,7 +43,7 @@ No. It is a standing code â€” there is no start date and no end date. Promotiona
 
 ---
 
-## Phoenix Trader Funding Deal History
+## Phoenix Trader Funding Deals History
 
 Total deals tracked: **24**
 
@@ -83,7 +83,7 @@ Total deals tracked: **24**
 
 ---
 
-## About the Phoenix Trader Funding Deals Dataset
+## About the Phoenix Trader Funding Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Phoenix Trader Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -91,7 +91,7 @@ This repository mirrors every deal **Phoenix Trader Funding** has published on P
 - Prop firm profile: [Phoenix Trader Funding Profile](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Phoenix Trader Funding Deal Dataset: Field Definitions
+## Phoenix Trader Funding Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
