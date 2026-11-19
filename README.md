@@ -21,7 +21,7 @@ As of November 2026, the verified Phoenix Trader Funding discount code is PFD �
 ## Latest Phoenix Trader Funding deal: 25K Daily Starter at $119.40 - 40% Off on TFeed
 
 - Published: 2026-11-04
-- Offer ends: 2026-11-18 17:59
+- Offer ends: 2026-11-18 17:59 (ended)
 - Offer: 40% off
 - Scope: Daily Starter, 25K Account, Tfeed
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
@@ -39,7 +39,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Phoenix Trader Funding deal?**
 
-**25K Daily Starter at $119.40 - 40% Off on TFeed** — published 2026-11-04. Offer ends: 2026-11-18 17:59. The offer is 40% off.
+**25K Daily Starter at $119.40 - 40% Off on TFeed** — published 2026-11-04. Offer ends: 2026-11-18 17:59 (ended). The offer is 40% off.
 
 ---
 
@@ -51,8 +51,8 @@ Total deals tracked: **24**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-04 | Phoenix Trader Funding: 25K Daily Starter at $119.40 - 40% Off on TFeed | 40% off | 2026-11-18 17:59 | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/) |
-| 2026-11-04 | Phoenix Trader Funding: 30% Off Every Classic Size on TFeed - 50K at $89.60 | 30% off | 2026-11-18 17:59 | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-tfeed/) |
+| 2026-11-04 | Phoenix Trader Funding: 25K Daily Starter at $119.40 - 40% Off on TFeed | 40% off | 2026-11-18 17:59 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-25k-daily-starter/) |
+| 2026-11-04 | Phoenix Trader Funding: 30% Off Every Classic Size on TFeed - 50K at $89.60 | 30% off | 2026-11-18 17:59 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-tfeed/) |
 | 2026-10-15 | Phoenix Trader Funding: 40% Off Daily Seed Challenge Pricing | 40% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-40-off-daily-seed/) |
 | 2026-10-15 | Phoenix Trader Funding: 30% Off Classic Starter Challenge Pricing | 30% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenix-trader-funding-30-off-classic-starter/) |
 | 2026-10-15 | Phoenix Trader Funding: Fixed $64.80 Entry On The $25K Classic Agile Account | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phoenix-trader-funding/phoenixtraderfunding-64-entry-25k-classic/) |
