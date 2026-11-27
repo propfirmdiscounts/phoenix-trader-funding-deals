@@ -11,7 +11,7 @@ As of November 2026, the verified Phoenix Trader Funding discount code is PFD â€
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code â€” no published expiry date
 - Last deal published: 2026-11-25
-- Trustpilot: [4.5/5 (263 reviews)](https://www.trustpilot.com/review/phoenixtraderfunding.com)
+- Trustpilot: [4.5/5 (265 reviews)](https://www.trustpilot.com/review/phoenixtraderfunding.com)
 - GitHub repository: [Phoenix Trader Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/phoenix-trader-funding-deals)
 - Activate: [Activate Phoenix Trader Funding Discount Code](https://propfirmdiscount.com/go/phoenixtraderfunding)
 - Firm page: [Phoenix Trader Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/phoenix-trader-funding/)
